@@ -1,47 +1,29 @@
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/364ed6cd-1ea4-41b4-b9f8-ae8e0652b6fe)
+
 # XCroft Solution
+## Full Stack Web & Blockchain Engineer 👋
+<p>
+Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
+I am always trying harder to find new and more effective ways to solve problems.
+</p>
+I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code.
+Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
 
-### Mobile Developer | Web Developer | Blockchain Enthusiast
+### ❤ My Highlight Skills
+#### ✔ Languages
+JavaScript, TypeScript, Node.js, Python, C++, GraphQL
+#### ✔ Frontend Development
+React.js, Vue.js, Redux, React-Query, jQuery, Ant-Design, Material-UI, Bootstrap, Responsive Web Development, Progressive Web Application
+#### ✔ Backend Development
+Node.js, Python, Django, GraphQL(Apollo), Laravel
+#### ✔ Databases
+MongoDB, MySQL, PostgreSQL, Firebase
+#### ✔ AWS Cognito, S3 Bucket, Lamda, SSM, ECS, EC2
+#### ✔ Jira Pipelines, Bitbucket, GitHub
+#### ✔ Google Maps API
 
-I'm a passionate Mobile Developer with extensive experience in building high-quality mobile applications. While mobile development is my primary focus, I also have a solid understanding of web development and a growing interest in blockchain technologies.
-
-- 🛠 **Skills**:
-  - **Mobile Development**: 
-    - Flutter (3 years)
-    - React Native (2 years)
-    - Swift (4 years)
-    - Kotlin (3 years)
-  - **Web Development**: 
-    - React (2 years)
-    - Angular (1 year)
-    - Node.js (2 years)
-    - Express (2 years)
-  - **Blockchain**: 
-    - Solidity (1 year)
-    - Ethereum (1 year)
-    - Smart Contracts (1 year)
-
-- 📊 **Statistics**:
-  - **Mobile Apps Developed**: 15+
-  - **Total Downloads**: 500,000+
-  - **Average App Rating**: 4.5/5
-  - **Commits This Year**: 500+
-  - **Repositories**: 30+
-
-- 📱 **Mobile Projects**:
-  - [AwesomeApp](https://github.com/yourusername/awesomeapp): A feature-rich mobile app built with Flutter that simplifies daily tasks. **(10,000+ downloads, 4.7/5 rating)**
-  - [TravelMate](https://github.com/yourusername/travelmate): A React Native app for planning and organizing trips, with real-time updates and offline capabilities. **(5,000+ downloads, 4.6/5 rating)**
-
-- 🌐 **Web Projects**:
-  - [WebPortfolio](https://github.com/yourusername/webportfolio): My personal portfolio website built with React and Node.js.
-  - [ECommerceSite](https://github.com/yourusername/ecommercesite): A full-stack e-commerce website using Angular and Express.
-
-- 🔗 **Blockchain Projects**:
-  - [CryptoWallet](https://github.com/yourusername/cryptowallet): A secure wallet application for managing cryptocurrencies.
-  - [SmartContractDemo](https://github.com/yourusername/smartcontractdemo): A collection of smart contracts for various use cases, written in Solidity.
-
-- 📫 **Contact Me**:
-  - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-  - [Twitter](https://twitter.com/yourhandle)
-  - [Email](mailto:your.email@example.com)
-
-Let's connect and build something amazing together!
+## Github Status
+<div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xcroft-solution&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xcroft-solution&layout=compact" width="42%"/>
+</div>
