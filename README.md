@@ -27,3 +27,7 @@ MongoDB, MySQL, PostgreSQL, Firebase
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xcroft-solution&count_private=true" width="50.25%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xcroft-solution&layout=compact" width="42%"/>
 </div>
+
+## Projects
+### 1. 2048 Next.js v15 + shadcn/ui + Tailwind CSS
+https://2048-next-shadcn.vercel.app/
