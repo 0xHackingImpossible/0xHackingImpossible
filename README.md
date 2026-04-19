@@ -1,5 +1,3 @@
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/364ed6cd-1ea4-41b4-b9f8-ae8e0652b6fe)
-
 # 0xHackingImpossible
 ## Full Stack Web & Blockchain Engineer 👋
 <p>
